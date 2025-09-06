@@ -19,5 +19,3 @@ function addTask() {
     document.getElementById('taskList').appendChild(li);
     input.value = '';
 }
-
-// Load from local storage (expand this later)
